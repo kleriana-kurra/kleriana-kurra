@@ -3,7 +3,7 @@
 <h2> :hearts: What I like the most about Computer Science is the freedom that it gives to create different ideas that can help people all around the world and make their lives easier. I also love the fact that with programming I face interesting and new problems and find the most optimized solution in order to produce quality software.
 After my graduation, I am planning to have my master's degree in order to specialize my knowledge while working as a Software Engineer. </h2>
 
-🔗 &nbsp;**Find me around the web**
+🔗 &nbsp;**Find me around the web :**
 <p align="center">
   <a href="https://www.linkedin.com/in/kleriana-kurra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:klerianakurra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-klerianakurra@gmail.com-blue?style=flat-square&logo=gmail"></a>
