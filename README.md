@@ -1,6 +1,5 @@
-<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
-<h3> 
-  Hello <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img                                 src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Hello <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img                               src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
   
   <h3>Welcome aboard my code station 🚀, I am Claire :smile: ! </h3>
 </h3>
@@ -37,5 +36,5 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&show_icons=true&theme=jolly" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdi1800230&theme=jolly" />
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
+<h3> 
