@@ -18,4 +18,7 @@ After my graduation, I am planning to have my master's degree in order to specia
 <a href="https://www.linkedin.com/in/kleriana-kurra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 
+</a>
 <a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
