@@ -13,6 +13,13 @@ After my graduation, I am planning to have my master's degree in order to specia
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&theme=buefy&show_icons=true" />
 </a>
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=sdi1800230&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
 🔗 &nbsp;**Connect with me**
 
 <a href="https://www.linkedin.com/in/kleriana-kurra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
