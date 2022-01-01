@@ -13,8 +13,4 @@ After my graduation, I am planning to have my master's degree in order to specia
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&theme=buefy&show_icons=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-- Compact layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdi1800230&layout=compact)](https://github.com/sdi1800230/github-readme-stats)
