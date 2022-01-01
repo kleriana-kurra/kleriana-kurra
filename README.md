@@ -7,7 +7,6 @@ After my graduation, I am planning to have my master's degree in order to specia
 <p align="center">
 <a href="mailto:klerianakurra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-klerianakurra@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
 <a href="https://www.linkedin.com/in/kleriana-kurra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 <a href="https://github.com/sdi1800230">
