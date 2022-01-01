@@ -1,9 +1,6 @@
-<img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+[![Typing SVG](https://giphy.com/embed/LMcB8XospGZO8UQq87](https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87)
 
-<img src="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" alt="Computador iuriCode">
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
 <h3> 
   Hello <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img                                 src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
   
