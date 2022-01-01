@@ -4,6 +4,6 @@
 After my graduation, I am planning to have my master's degree in order to specialize my knowledge while working as a Software Engineer. </h2/
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kleriana-kurra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kleriana-kurra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kleriana%20kurra%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:klerianakurra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-klerianakurra@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
