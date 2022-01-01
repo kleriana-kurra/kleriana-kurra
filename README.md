@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-Hello <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img                                src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+<h3> 
+  Hello <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img                                 src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
   
   <h3>Welcome aboard my code station 🚀, I am Claire :smile: ! </h3>
 </h3>
@@ -12,7 +13,8 @@ Hello <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.co
 
 ----
 
-<h3> 
+<h3> ![Earth](https://user-images.githubusercontent.com/74961559/147860862-ce255df9-57bb-4113-81d1-e22dc5f71193.gif)
+
   :hearts: What I like the most about Computer Science is the freedom that it gives to create different ideas that can help people all around the world and make their lives         easier. I also love the fact that with programming I face interesting and new problems and find the most optimized solution in order to produce quality software.
   After my graduation, I am planning to have my master's degree in order to specialize my knowledge while working as a Software Engineer. 
 </h3>
