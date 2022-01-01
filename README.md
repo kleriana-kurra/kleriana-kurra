@@ -38,5 +38,3 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&show_icons=true&theme=jolly" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdi1800230&theme=jolly" />
 </p>
-
-<img src="https://imgur.com/rilHVxA.png"/>
