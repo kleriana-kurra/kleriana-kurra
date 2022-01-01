@@ -9,6 +9,7 @@ After my graduation, I am planning to have my master's degree in order to specia
 <a href="mailto:klerianakurra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-klerianakurra@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+🔗 &nbsp;**Connect with me**
 <a href="https://github.com/sdi1800230">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&theme=buefy&show_icons=true" />
 </a>
