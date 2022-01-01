@@ -21,7 +21,7 @@
 
 ----
 
-<h3> Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+<h3> Find me around the web : <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p>
   <a href="https://www.linkedin.com/in/kleriana-kurra/">
     <img align="left" alt="Kleriana Kurra | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
