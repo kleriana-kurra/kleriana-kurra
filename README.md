@@ -13,6 +13,3 @@ After my graduation, I am planning to have my master's degree in order to specia
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&theme=buefy&show_icons=true" />
 </a>
 
-<a href="https://github.com/sdi1800230">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdi1800230&theme=buefy&layout=compact" />
-  </a>
