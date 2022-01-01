@@ -13,4 +13,4 @@ After my graduation, I am planning to have my master's degree in order to specia
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&theme=buefy&show_icons=true" />
 </a>
 
-<a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/sdi1800230"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
