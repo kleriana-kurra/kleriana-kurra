@@ -1,4 +1,5 @@
-<img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" alt="Computador iuriCode">
+
 </img><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
