@@ -1,4 +1,4 @@
-<h2> Hello :wave: world :globe_with_meridians:, I am Claire ! </h2>
+<h2> Hello :wave: world, I am Claire :smile: ! </h2>
 <h2> :mortar_board: I study Computer Science :computer: and Telecommunications at the National and Kapodistrian University of Athens. </h2>
 <h2> :hearts: What I like the most about Computer Science is the freedom that it gives to create different ideas that can help people all around the world and make their lives easier. I also love the fact that with programming I face interesting and new problems and find the most optimized solution in order to produce quality software.
 After my graduation, I am planning to have my master's degree in order to specialize my knowledge while working as a Software Engineer. </h2/
