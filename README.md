@@ -37,6 +37,5 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&show_icons=true&theme=jolly" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdi1800230&theme=jolly" />
+  <img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 </p>
-
-<img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
