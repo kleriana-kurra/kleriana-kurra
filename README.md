@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3> 
-  Hello world <a href="https://kleriana-kurra.com/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , welcome aboard my code station 🚀   my name is Claire :smile: !
+  <a href="https://kleriana-kurra.com/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello world, welcome aboard my code station 🚀   my name is Claire :smile: !
 </h3>
 
 ----
@@ -19,18 +19,18 @@
 
 ----
 
-<h3> Find me around the web : <img src="imagesAndGifs/Handshake.gif" height="32px"> </h3>
-<p>
+<h3> <img src="imagesAndGifs/Handshake.gif" height="32px"> Find me around the web :</h3>
+<p align="center">
   <a href="https://kleriana-kurra.com/">
-    <img align="left" alt ="Kleriana Kurra | Personal website" src="imagesAndGifs/Earth.gif" width="24px">
+    <img alt ="Kleriana Kurra | Personal website" src="imagesAndGifs/Earth.gif" width="32px">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kleriana-kurra/">
-    <img align="left" alt="Kleriana Kurra | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img alt="Kleriana Kurra | Linkedin" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> 
   &nbsp;&nbsp;
   <a href="mailto:klerianakurra@gmail.com">
-    <img align="left" alt="Kleriana Kurra | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img alt="Kleriana Kurra | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
 
