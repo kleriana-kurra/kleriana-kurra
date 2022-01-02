@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3> 
-  Hello <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img src="imagesAndGifs/Earth.gif" width="24px"> , welcome aboard my code station 🚀 my name is Claire :smile: !
-  
-  <h3> </h3>
+  Hello world <a href="https://kleriana-kurra.com/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , welcome aboard my code station 🚀   my name is Claire :smile: !
 </h3>
 
 ----
@@ -23,6 +21,10 @@
 
 <h3> Find me around the web : <img src="imagesAndGifs/Handshake.gif" height="32px"> </h3>
 <p>
+  <a href="https://kleriana-kurra.com/">
+    <img align="left" alt ="Kleriana Kurra | Personal website" src="imagesAndGifs/Earth.gif" width="24px">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kleriana-kurra/">
     <img align="left" alt="Kleriana Kurra | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> 
