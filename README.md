@@ -40,6 +40,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdi1800230&show_icons=true&locale=en&layout=compact&theme=jolly" alt="ilias000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdi1800230&show_icons=true&locale=en&layout=compact&theme=jolly" alt="sdi1800230" />
 </p>
 <img align="center" src="imagesAndGifs/laptop.gif" width="400" height="300" alt="girl coding img" >
