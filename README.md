@@ -46,7 +46,6 @@
 ----
 
 <h3 align="left"> Skills :woman_technologist: :</h3>
-<img align="right" src="imagesAndGifs/laptop.gif" width="400" height="300" alt="girl coding img">
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Java.svg" alt="Java" width="40" height="40"/> </a>
   &nbsp;&nbsp;
@@ -62,4 +61,15 @@
   &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/MySQL.svg" alt="MySQL" width="40" height="40"/> </a>
 </p>
+<p align="center">
+   <img src="imagesAndGifs/laptop.gif" align="center" width="400" height="300" alt="girl coding img"/>
+</p>
 <br>
+
+----
+
+<h3 align="center"> My projects : </h3>
+</p>
+<p align="center">
+   <img src="imagesAndGifs/arrow-down.gif" align="center" width="400" height="300" alt="girl coding img"/>
+</p>
