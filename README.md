@@ -55,6 +55,8 @@
   &nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/C.svg" alt="C" width="40" height="40"/> </a>
   &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/165px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Bash.svg" alt="Bash" width="40" height="40"/> </a>
   &nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Linux.svg" alt="Linux" width="40" height="40"/> </a>
