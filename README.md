@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3> 
-  Hello <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img                                 src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+  Hello <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> world <img src="imagesAndGifs/Earth.gif" width="24px">
   
   <h3>Welcome aboard my code station 🚀, I am Claire :smile: ! </h3>
 </h3>
@@ -21,7 +21,7 @@
 
 ----
 
-<h3> Find me around the web : <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+<h3> Find me around the web : <img src="imagesAndGifs/Handshake.gif" height="32px"> </h3>
 <p>
   <a href="https://www.linkedin.com/in/kleriana-kurra/">
     <img align="left" alt="Kleriana Kurra | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -37,5 +37,5 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sdi1800230&show_icons=true&theme=jolly" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdi1800230&theme=jolly" />
-  <img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
+  <img align="center" src="imagesAndGifs/laptop.gif" width="400" height="300" alt="girl coding img" >
 </p>
