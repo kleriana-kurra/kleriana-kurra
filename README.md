@@ -22,16 +22,13 @@
 <h3> <img src="imagesAndGifs/Handshake.gif" height="32px"> Find me around the web :</h3>
 <p align="center">
   <a href="https://kleriana-kurra.com/">
-    <img alt ="Kleriana Kurra | Personal website" src="imagesAndGifs/Earth.gif" width="32px">
-  </a>
+    <img alt ="Kleriana Kurra | Personal website" src="imagesAndGifs/Earth.gif" width="32px"></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kleriana-kurra/">
-    <img alt="Kleriana Kurra | Linkedin" width="32px" src="imagesAndGifs/Linkedin.svg" />
-  </a> 
+    <img alt="Kleriana Kurra | Linkedin" width="32px" src="imagesAndGifs/Linkedin.svg" /></a> 
   &nbsp;&nbsp;
   <a href="mailto:klerianakurra@gmail.com">
-    <img alt="Kleriana Kurra | Gmail" width="32px" src="imagesAndGifs/Gmail.svg" />
-  </a>
+    <img alt="Kleriana Kurra | Gmail" width="32px" src="imagesAndGifs/Gmail.svg" /></a>
 </p>
 
 ----
@@ -49,19 +46,19 @@
 
 <h3 align="center"> Skills :woman_technologist:</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Java.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Java.svg" alt="Java" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/C++.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/C++.svg" alt="C++" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/C.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/C.svg" alt="C" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Bash.svg" alt="Bash" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Bash.svg" alt="Bash" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Linux.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Linux.svg" alt="Linux" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Git.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/Git.svg" alt="Git" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/MySQL.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="imagesAndGifs/MySQL.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
 <p align="center">
