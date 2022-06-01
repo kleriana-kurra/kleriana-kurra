@@ -1,7 +1,7 @@
 <img src="imagesAndGifs/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer picture">
 
 <h3> 
-  <a href="https://kleriana-kurra.com/"> <img src="imagesAndGifs/giphy.gif" width="10px"></a> Hello world, welcome aboard my code station 🚀 my name is Claire :smile: !
+  <a href="https://kleriana-kurra.com/"> <img src="imagesAndGifs/giphy.gif" width="25px"></a> Hello world, welcome aboard my code station 🚀 my name is Claire :smile: !
 </h3>
 
 ----
