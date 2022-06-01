@@ -22,7 +22,7 @@
 <h3> <img src="imagesAndGifs/Handshake.gif" height="32px"> Find me around the web :</h3>
 <p align="center">
   <a href="https://kleriana-kurra.com/">
-    <img alt ="Kleriana Kurra | Personal website" src="imagesAndGifs/Earth.gif" width="32px"></a>
+    <img alt ="Kleriana Kurra | Personal website" :globe_with_meridians: src="imagesAndGifs/Earth.gif" width="32px"></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kleriana-kurra/">
     <img alt="Kleriana Kurra | Linkedin" width="32px" src="imagesAndGifs/Linkedin.svg" /></a> 
