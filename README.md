@@ -32,7 +32,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kleriana-kurra&show_icons=true&theme=jolly" alt="kleriana-kurra statistics"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kleriana-kurra&theme=jolly" alt="kleriana-kurrra statistics"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kleriana-kurra&theme=jolly" alt="kleriana-kurra statistics"/>
   
 </p>
 
