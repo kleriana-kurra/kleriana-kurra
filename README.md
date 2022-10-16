@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kleriana-kura&show_icons=true&locale=en&layout=compact&theme=jolly" alt="kleriana-kurra statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kleriana-kurra&show_icons=true&locale=en&layout=compact&theme=jolly" alt="kleriana-kurra statistics" />
 </p>
 
 ----
